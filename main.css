@@ -1,0 +1,20 @@
+body{
+    background: #3a7bd5; 
+    background: -webkit-linear-gradient(to right, #3a6073, #3a7bd5); 
+    background: linear-gradient(to right, #3a6073, #3a7bd5); 
+
+}
+
+.card{
+    border-radius: 20px;
+    background-color: rgba(256, 256, 256, .5);
+}
+
+.form-control{
+    border-radius: 10px;
+    border:none;
+}
+
+.btn{
+    border-radius: 10px;
+}
